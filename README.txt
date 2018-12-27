@@ -1,4 +1,0 @@
-# Distributed Computing Spark on Kiva Loan Prediction
-
-This is a project to predict how much time a given loan will take to reach full funding based on Kiva data set using PySpark and Spark MLlib.
-Deployed a pipeline to bridge Amazon S3, MongoDB server, and AWS EC2 cluster for unstructured data and built a rudimentary Random Forest model which achieved 83% accuracy. 
